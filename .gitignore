@@ -1,0 +1,9 @@
+# Vim temporary files
+*.swp
+.*.swp
+
+# Week 1 Assignment hidden files and folders
+.config/
+.hidden_data/
+.secret.txt
+.gitignore_test/
