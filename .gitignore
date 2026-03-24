@@ -7,3 +7,5 @@
 .hidden_data/
 .secret.txt
 .gitignore_test/
+.vimrc/
+
